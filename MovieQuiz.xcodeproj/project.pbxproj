@@ -17,7 +17,7 @@
 		AD7AFA552836189F00399704 /* Array+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7AFA542836189F00399704 /* Array+Extensions.swift */; };
 		DE9088AC2E5B4CBD00339509 /* YS Display-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DE9088AA2E5B4CBD00339509 /* YS Display-Bold.ttf */; };
 		DE9088AD2E5B4CBD00339509 /* YS Display-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DE9088AB2E5B4CBD00339509 /* YS Display-Medium.ttf */; };
-		DEA7E0822E5CFC9C001FBD09 /* UIColors+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA7E0812E5CFC9C001FBD09 /* UIColors+Extensions.swift */; };
+		DEA7E0822E5CFC9C001FBD09 /* UIColor+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEA7E0812E5CFC9C001FBD09 /* UIColor+Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +33,7 @@
 		AD7AFA542836189F00399704 /* Array+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Array+Extensions.swift"; sourceTree = "<group>"; };
 		DE9088AA2E5B4CBD00339509 /* YS Display-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "YS Display-Bold.ttf"; sourceTree = "<group>"; };
 		DE9088AB2E5B4CBD00339509 /* YS Display-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "YS Display-Medium.ttf"; sourceTree = "<group>"; };
-		DEA7E0812E5CFC9C001FBD09 /* UIColors+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColors+Extensions.swift"; sourceTree = "<group>"; };
+		DEA7E0812E5CFC9C001FBD09 /* UIColor+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Extensions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +101,7 @@
 			children = (
 				AD7AFA542836189F00399704 /* Array+Extensions.swift */,
 				AD77F5732857F8810062FB14 /* Date+Extensions.swift */,
-				DEA7E0812E5CFC9C001FBD09 /* UIColors+Extensions.swift */,
+				DEA7E0812E5CFC9C001FBD09 /* UIColor+Extensions.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -182,7 +182,7 @@
 			files = (
 				AD7AFA552836189F00399704 /* Array+Extensions.swift in Sources */,
 				AD1ABAB62831907B00B3E448 /* MovieQuizViewController.swift in Sources */,
-				DEA7E0822E5CFC9C001FBD09 /* UIColors+Extensions.swift in Sources */,
+				DEA7E0822E5CFC9C001FBD09 /* UIColor+Extensions.swift in Sources */,
 				AD77F5742857F8810062FB14 /* Date+Extensions.swift in Sources */,
 				AD1ABAB22831907B00B3E448 /* AppDelegate.swift in Sources */,
 				AD1ABAB42831907B00B3E448 /* SceneDelegate.swift in Sources */,
